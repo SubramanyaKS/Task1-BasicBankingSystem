@@ -11,4 +11,4 @@ Database options: Mysql, Mongo, Postgres, etc. Customers table will have basic �
 ◇ No Login Page. No User Creation. Only transfer of money between multiple users.<br>
 ◇ Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.
 
-<website link>: https://basicfundapp.000webhostapp.com 
+website link: https://basicfundapp.000webhostapp.com 
